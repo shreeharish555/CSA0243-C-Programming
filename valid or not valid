@@ -17,3 +17,8 @@ void main()
     
     }
 }
+
+Output:
+Enter the user name: saveetha@789
+Reenter the user name:saveetha@123
+User name is Invalid...
